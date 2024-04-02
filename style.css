@@ -34,12 +34,17 @@ body {
     align-items: center;
     flex-wrap: nowrap;
     gap: 15px;
+    font-size: 14px;
 }
 
 .conteudo img {
     border-radius: 50%;
     width: 20%;
     
+}
+
+.conteudo h1 {
+    font-size: 20px;
 }
 
 .conteudo .nome {
